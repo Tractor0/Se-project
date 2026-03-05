@@ -1,5 +1,6 @@
 [/] Login Page
 [/] Register Page
+[/] Forgot Password Page
 
 
 Login Page: Lorem Ipsum
