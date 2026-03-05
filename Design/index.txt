@@ -4,3 +4,5 @@
 
 
 Login Page: Lorem Ipsum
+Register Page: Placeholder
+Forgot Password Page: The fox
