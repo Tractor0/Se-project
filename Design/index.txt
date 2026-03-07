@@ -6,6 +6,7 @@
 [/] Appointment List Page
 [/] Report Page
 [/] Doctor List Page
+[/] Availability Page
 
 
 Login Page: Lorem Ipsum
@@ -16,3 +17,4 @@ Booking Page: Lorem Ipsum
 Appointment List Page: Lorem Ipsum
 Report Page: Lorem 
 Doctor List Page: Lorem Ipsum
+Availability Page: Lorem Ipsum
