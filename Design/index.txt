@@ -8,6 +8,7 @@
 [/] Doctor List Page
 [/] Availability Page
 [/] Scheduling Page
+[/] Prototype
 
 
 Login Page: Lorem Ipsum
@@ -20,3 +21,6 @@ Report Page: Lorem
 Doctor List Page: Lorem Ipsum
 Availability Page: Lorem Ipsum
 Scheduling Page: Lorem Ipsum
+
+
+Prototype: Lorem Ipsum
