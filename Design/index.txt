@@ -4,6 +4,7 @@
 [/] Home Page
 [/] Booking Page
 [/] Appointment List Page
+[/] Report Page
 
 
 Login Page: Lorem Ipsum
@@ -12,3 +13,4 @@ Forgot Password Page: The fox
 Home Page: Lorem Ipsum
 Booking Page: Lorem Ipsum
 Appointment List Page: Lorem Ipsum
+Report Page: Lorem Ipsum
