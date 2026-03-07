@@ -1,8 +1,11 @@
 [/] Login Page
 [/] Register Page
 [/] Forgot Password Page
+[/] Home Page
+
 
 
 Login Page: Lorem Ipsum
 Register Page: Placeholder
 Forgot Password Page: The fox
+Home Page: Lorem Ipsum
