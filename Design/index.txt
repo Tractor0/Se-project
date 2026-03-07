@@ -2,6 +2,7 @@
 [/] Register Page
 [/] Forgot Password Page
 [/] Home Page
+[/] Booking Page
 
 
 
@@ -9,3 +10,4 @@ Login Page: Lorem Ipsum
 Register Page: Placeholder
 Forgot Password Page: The fox
 Home Page: Lorem Ipsum
+Booking Page: Lorem Ipsum
