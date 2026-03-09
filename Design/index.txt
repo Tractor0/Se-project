@@ -9,7 +9,7 @@
 [/] Availability Page
 [/] Scheduling Page
 [/] Prototype
-
+[/] Use case diagram
 
 Login Page: Lorem Ipsum
 Register Page: Placeholder
@@ -24,3 +24,5 @@ Scheduling Page: Lorem Ipsum
 
 
 Prototype: Lorem Ipsum
+
+use case diagram : created it with actors patient, doctor and admin as well as usecasses.
