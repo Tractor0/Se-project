@@ -10,19 +10,22 @@
 [/] Scheduling Page
 [/] Prototype
 [/] Use case diagram
-
-Login Page: Lorem Ipsum
-Register Page: Placeholder
-Forgot Password Page: The fox
-Home Page: Lorem Ipsum
-Booking Page: Lorem Ipsum
-Appointment List Page: Lorem Ipsum
-Report Page: Lorem 
-Doctor List Page: Lorem Ipsum
-Availability Page: Lorem Ipsum
-Scheduling Page: Lorem Ipsum
+[/] Incorrect Password Page
 
 
-Prototype: Lorem Ipsum
+Login Page: Simple log in page with connections to register page, Forgot Password Page, and Home Page
+Register Page: Simple Register page with connections to Login Page and Home Page
+Forgot Password Page: Shows email bracket to potentially receive password reset, links to Login Page
+Home Page: Basic Home page with connections to All Pages except Login Page, Forgot password Page, Home Page, and Incorrect Password Page.
+Booking Page: Page with dates to choose and book appointment. Links to Appointment List Page and Home Page
+Appointment List Page: Page with all confirmed appointments, has non-working cancel appointment button, links to Home Page
+Report Page: Shows Doctor reports, links to home page. Edit button to be visible to Doctor accounts only
+Doctor List Page: Shows list of all active Doctors. Links to Home Page, add doctor button visible to Admin accounts only
+Availability Page: Shows dates to choose and block out unavailable dates. Links to Home page, visible to doctor and admin accounts only
+Scheduling Page: Shows list of all active doctors, with option to edit current schedules. Links to Home Page, visible to admin accounts only.
+Incorrect Password Page: Unlinked page to show what happens if password or email is incorrect in Login Page.
+
+
+Prototype: barebones prototype for navigation purposes only. No working functions such as edit schedule or cancel appointment etc working yet.
 
 use case diagram : created it with actors patient, doctor and admin as well as usecasses.
